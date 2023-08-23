@@ -1,2 +1,4 @@
 # VOYAGE
-Designed and developed a social media application on MERN stack
+Hello Frens !
+Welcome to the voyage repo, this app will not stop here !
+In next stage it going to be decetralized !!
