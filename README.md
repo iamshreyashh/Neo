@@ -1,12 +1,25 @@
-# React + Vite
+# 🌐 Web3 Social Media 🚀  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An **aesthetic, futuristic** Web3 social media platform built with **React, Tailwind CSS, and Ethers.js**. Connect your wallet, interact with decentralized content, and experience the power of Web3!  
 
-Currently, two official plugins are available:
+## 🔥 Features  
+- 🏗 **Web3 Wallet Integration** (MetaMask)  
+- 🎨 **Dark & Light Mode**  
+- 🌈 **Aesthetic UI** with Tailwind CSS  
+- 📸 **Profile & Social Feed**  
+- ⚡ **Live Blockchain Network Display**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎬 Preview  
+![App Screenshot](https://your-image-link.com/screenshot.png)  
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack  
+- **Frontend**: React + Vite + Tailwind CSS  
+- **Blockchain**: Ethers.js + MetaMask  
+- **UI Framework**: Material UI  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Installation  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/web3-social-media.git  
+cd web3-social-media  
