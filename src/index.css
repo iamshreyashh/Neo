@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.bg-noise {
+  background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png');
+  opacity: 0.1;
+}
