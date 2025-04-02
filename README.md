@@ -1,4 +1,4 @@
-# 🌐 Web3 Social Media 🚀  
+# 🌐 Neo Social Media 🚀  
 
 An **aesthetic, futuristic** Web3 social media platform built with **React, Tailwind CSS, and Ethers.js**. Connect your wallet, interact with decentralized content, and experience the power of Web3!  
 
@@ -21,5 +21,5 @@ An **aesthetic, futuristic** Web3 social media platform built with **React, Tail
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/web3-social-media.git  
-cd web3-social-media  
+git clone https://github.com/your-username/Neo-social-media.git  
+cd neo  
